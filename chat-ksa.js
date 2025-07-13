@@ -559,4 +559,6 @@ background-color:#ffffff;
 }
 
 
-`);
+</style>`).appendTo("head");
+  }
+});
