@@ -390,7 +390,7 @@ a.label.label-primary.fl img.fl {
     font-size: 10px!important;
     padding: 0 5px!important;
     position: relative;
-    color: #000
+    color: #fff
 }
 
 .fr.borderg {
@@ -555,10 +555,5 @@ background-color:#ffffff;
   }
   100% {
     background-position:14% 0
-  }
 }
-
-
-</style>`).appendTo("head");
-  }
-});
+</style>`).insertBefore("body")
